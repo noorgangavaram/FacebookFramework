@@ -1,0 +1,26 @@
+<!--
+THis file has been fixed by noor mohammad on Branch feature1
+-->
+<suite name="MakeTripAnutomation" >
+    <test name="makemytrip">
+        <!--
+               <groups>
+                   <run>
+                       <include name="method2"/>
+
+                   </run>
+
+               </groups>
+
+
+       -->
+        <parameter name="Noor" value="5"></parameter>
+        <parameter name="Mahin" value="30"></parameter>
+        <classes>
+
+           <class name="testNGparameters"/>
+
+        </classes>
+
+    </test>
+</suite>

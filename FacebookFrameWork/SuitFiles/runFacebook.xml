@@ -1,0 +1,9 @@
+<suite name="facebook">
+    <test name="test facebook">
+        <parameter name="emailid" value="noorfafsfs"/>
+        <parameter name="pwd" value="9820948209348"/>
+        <classes>
+            <class name="FacebookLogin"/>
+        </classes>
+    </test>
+</suite>
